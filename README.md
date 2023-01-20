@@ -4,7 +4,7 @@
 
 This project was developed as a student group project, guided by lecturers at Seavus Education & Development Center, within the Academy for Programming.
 
-This repository is the back-end part of the project, and the front-end is at: https://github.com/sedc-codecademy/sp2022-cp04-dtb-1/tree/develop-react
+Front-end part of the project: https://github.com/sedc-codecademy/sp2022-cp04-dtb-1/tree/develop-react
 
 ## Technologies
 * HTML, CSS & JavaScript
