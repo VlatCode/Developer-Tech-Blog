@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was developed as a student group project, guided by lecturers at Seavus Education & Development Center, within the Academy for Programming.
+This project was developed as a student group project, guided by lecturers at the Academy for Programming, within Seavus Education & Development Center.
 
 Front-end part of the project: https://github.com/sedc-codecademy/sp2022-cp04-dtb-1/tree/develop-react
 
